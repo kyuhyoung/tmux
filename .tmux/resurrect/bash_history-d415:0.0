@@ -1,0 +1,1000 @@
+ls snpe-1.21.0_ori/lib/x86_64-linux-clang/
+cd snpe-1.21.0_eyedea/
+ls
+vi ~/.bashrc
+vi ../snpe-1.19.2/examples/NativeCpp/SampleCode/jni/main.cpp 
+fish
+vi ~/.bashrc
+source ~/.bashrc
+./obj/local/x86_64-linux-clang/snpe-sample 
+vi ~/.bashrc
+source ~/.bashrc
+./obj/local/x86_64-linux-clang/snpe-sample 
+vi ~/.bashrc
+source ~/.bashrc
+./obj/local/x86_64-linux-clang/snpe-sample 
+fish
+source py27/bin/activate
+fish
+fish
+. ~/.bashrc
+fish
+fish
+./bin/Release/snpe -d dlc/bvlc_alexnet.dlc -i target_raw_list.txt -o output
+cd ..
+ls
+fish
+fish
+fish c
+fish
+source py27/bin/activate
+which tensorflow
+python
+pip show tensorflow
+python
+echo $TENSORFLOW
+ls ~/py27/lib/python2.7/site-packages/
+cd ~/py27/lib/python2.7/site-packages/tensorflow/
+cd ~/library/snpe/snpe-1.21.0_eyedea/
+ls
+make clean
+make
+ls -altrsh
+ls bin/Release/
+ls bin/Release/snpe -altrsh
+./bin/Release/snpe
+fish
+source ~/.bashrc
+bash
+source ~/.bashrc
+fish
+fish
+source activate py3
+python -V
+sudo apt-get install libprotobuf-dev libleveldb-dev libsnappy-dev libopencv-dev libhdf5-serial-dev protobuf-compile
+sudo apt-get install libprotobuf-dev libleveldb-dev libsnappy-dev libopencv-dev libhdf5-serial-dev protobuf-compiler
+deactivate
+sudo deactivate
+deactivate py3
+sudo deactivate py3
+source deactivate
+source activate py27
+sudo apt-get install libprotobuf-dev libleveldb-dev libsnappy-dev libopencv-dev libhdf5-serial-dev protobuf-compiler
+python
+sudo apt-get install --no-install-recommends libboost-all-dev
+sudo apt-get install libatlas-base-dev
+sudo apt-get install libgflags-dev libgoogle-glog-dev liblmdb-dev
+git clone https://github.com/weiliu89/caffe.git caffe_weiliu89
+cd caffe_weiliu89/
+git checkout ssd
+git checkout sss
+cp Makefile.config.example Makefile.config
+vi Makefile.config
+make clean
+make all
+sudo make all
+conda uninstall libprotobuf
+conda uninstall protobuf
+make all
+sudo make all
+make clean
+sudo make all
+vi Makefile
+vi Makefile.config
+make clean
+sudo make clean
+sudo make all
+makee test
+make test
+sudo make test
+sudo make runtest
+make runtest
+sudo make runtest
+sudo make runtest
+ldd caffe | grep proto
+cd ..
+ldd caffe | grep proto
+ldd caffe_weiliu89 | grep proto
+cd ..
+cd library/caffe_weiliu89/
+ls caffe
+ls
+sudo find . -name 'caffe'
+cd .build_release/tools/
+ls
+ls cafffe
+ls caffe
+ls caffe -altrsh
+ldd caffe | grep proto
+rosnode list
+fish
+source bin/dependencies.sh 
+vi bin/dependencies.sh 
+ps aux | grep apt
+source bin/dependencies.sh 
+ps aux | grep apt
+source bin/dependencies.sh 
+fish
+source bin/check_python_depends.sh 
+conda
+fish
+fish
+tmux ls
+tmux
+source ~/.bashrc
+fish
+conda activate py3
+source activate py3
+fihs
+fish
+nvcc -V
+fish
+source activate py27
+./bin/check_python_depends.sh 
+source bin/envsetup.sh 
+source bin/envsetup.sh -h
+source bin/envsetup.sh -c ~/library/caffe
+python
+conda install numpy
+python
+which protoc
+conda install -c anaconda protobuf
+which protoc
+python
+which protoc
+conda install -c tensorcomp protobuf
+which protoc
+conda install -c intel protobuf
+ls ~/anaconda3/envs/py27/lib/libprotobuf.so -altrsh
+python
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:~/anaconda3/lib/
+echo $LD_LIBRARY_PATH
+python
+conda install -c anaconda cudatoolkit==8.0
+nvcc -v
+nvcc -V
+wich nvcc
+which nvcc
+sudo find ~/anoconda3 -name 'cuda'
+sudo find ~/anaconda3 -name 'cuda'
+python
+conda install -c anaconda caffe-gpu
+python
+source bin/envsetup.sh -c ~/anaconda3/envs/py27/lib/
+source deactivate
+fish
+source activate py3
+python
+./bin/check_python_depends.sh 
+deactivate
+fish
+cat /usr/local/cuda/include/cudnn.h | grep CUDNN_MAJOR -A 2
+fish
+source ~/.bashrc
+python
+python2
+python3.7
+python3.4
+python3.5
+python3.3
+python2.7
+source ~/.bashrc
+source ~/.bashrc
+fish
+tmux ls
+fish
+tmux ls
+tmux
+ls
+fish
+tmux ls
+fish
+fihs
+fish
+source ~/.bashrc
+fish
+~/.bashrc
+fish
+python
+alias python=python2
+python
+fish
+python2 examples/DCOD/image_detection_demo.py -weight  Tiny-DSOD/Tiny-DSOD.caffemodel -model Tiny-DSOD/deploy.prototxt -img_dir image -num 1
+echo $CAFFE_HOME
+fish
+python
+alias python=python2
+python
+fish
+cd ..
+source bin/dependencies.sh 
+python
+vi ~/.bashrc
+source ~/.bashrc
+python
+fish
+source bin/envsetup.sh -c ~/work/etc/Tiny-DSOD_shinyeong/
+fish
+source activate py3
+python
+fish
+python
+fish
+source ~/.bashrc
+python2
+python3
+fish
+source ~/.bashrc
+fish
+source bin/envsetup.sh -c ~/work/etc/Tiny-DSOD
+ls
+fish
+source bin/dependencies.sh 
+source bin/check_python_depends.sh 
+vi bin/check_python_depends.sh 
+source bin/check_python_depends.sh 
+source bin/envsetup.sh -c ~/library/caffe_weiliu89/
+python
+python2
+ls
+fish
+source ~/.bashrc
+mkdir ~/python
+ls distribute/python/caffe
+mv distribute/python/caffe ~/python
+sudo mv distribute/python/caffe ~/python
+source ~/.bashrc
+python
+fihs
+fish
+python
+source bin/check_python_depends.sh 
+./bin/x86_64-linux-clang/snpe-caffe-to-dlc 
+source ~/.bashrc
+./bin/x86_64-linux-clang/snpe-caffe-to-dlc 
+python
+./bin/x86_64-linux-clang/snpe-caffe-to-dlc 
+python
+python2
+vi lib/python/snpe/__init__.py 
+vi ./bin/x86_64-linux-clang/snpe-caffe-to-dlc 
+python ./bin/x86_64-linux-clang/snpe-caffe-to-dlc 
+python ./bin/x86_64-linux-clang/snpe-caffe-to-dlc -h
+vi bin/envsetup.sh 
+sh bin/envsetup.sh 
+source bin/envsetup.sh 
+source bin/envsetup.sh -c ~/library/caffe_weiliu89/
+echo $SNPE_ROOT
+echo $CAFFE_HOME
+echo $CAFFE_DIR
+./bin/x86_64-linux-clang/snpe-caffe-to-dlc 
+python ./bin/x86_64-linux-clang/snpe-caffe-to-dlc 
+python
+python3
+vi ./bin/x86_64-linux-clang/snpe-caffe-to-dlc 
+./bin/x86_64-linux-clang/snpe-caffe-to-dlc 
+vi ./bin/x86_64-linux-clang/snpe-caffe-to-dlc 
+./bin/x86_64-linux-clang/snpe-caffe-to-dlc 
+vi ./bin/x86_64-linux-clang/snpe-caffe-to-dlc 
+python3 ./bin/x86_64-linux-clang/snpe-caffe-to-dlc 
+./bin/x86_64-linux-clang/snpe-caffe-to-dlc 
+conda list env
+conda env list
+source activate py27
+conda install pytorch-nightly -c pytorch
+python
+source bin/envsetup.sh -f ~/anaconda3/envs/py27/lib/python2.7/site-packages/caffe2/
+./bin/x86_64-linux-clang/snpe-caffe2-to-dlc 
+conda install protobuf
+./bin/x86_64-linux-clang/snpe-caffe2-to-dlc 
+conda install -c anaconda tensorflow-gpu
+source bin/envsetup.sh -t ~/anaconda3/envs/py27/lib/python2.7/site-packages/tensorflow
+./bin/x86_64-linux-clang/snpe-tensorflow-to-dlc 
+./bin/x86_64-linux-clang/snpe-caffe2-to-dlc 
+./bin/x86_64-linux-clang/snpe-caffe-to-dlc 
+vi ./bin/x86_64-linux-clang/snpe-onnx-to-dlc 
+conda install -c conda-forge onnx
+source bin/envsetup.sh -o ~/anaconda3/envs/py27/lib/python2.7/site-packages/onnx
+./bin/x86_64-linux-clang/snpe-onnx-to-dlc 
+vi ./bin/x86_64-linux-clang/snpe-onnx-to-dlc 
+./bin/x86_64-linux-clang/snpe-onnx-to-dlc 
+./bin/x86_64-linux-clang/snpe-diagview 
+vi ./bin/x86_64-linux-clang/snpe-diagview 
+vi ./bin/x86_64-linux-clang/snpe-dlc-diff 
+./bin/x86_64-linux-clang/snpe-dlc-diff 
+./bin/x86_64-linux-clang/snpe-dlc-info 
+vi ./bin/x86_64-linux-clang/snpe-dlc-info 
+vi ./bin/x86_64-linux-clang/snpe-dlc-quantize 
+./bin/x86_64-linux-clang/snpe-
+vi ./bin/x86_64-linux-clang/snpe-dlc-viewer 
+./bin/x86_64-linux-clang/snpe-dlc-viewer 
+./bin/x86_64-linux-clang/snpe-net-run
+vi ./bin/x86_64-linux-clang/snpe-net-run
+tmux ls
+tmux
+tmux ls
+fish
+ls
+exit
+source ~/.bashrc
+echo $PYTHONPATH
+export $PYTHONPATH
+export $PYTHONPATH=
+export PYTHONPATH=
+echo $PYTHONPATH
+source ~/.bashrc
+echo $PYTHONPATH
+fish
+source ~/.bashrc
+fish
+source ~/.bashrc
+vi ~/.bashrc
+fish
+fihs
+fish
+nvidia-smi --query-gpu=gpu_name,gpu_bus_id,vbios_version --format=csv
+nvidia-smi --query-gpu=gpu_name,memory.total,memory.free.memory.used --format=csv
+nvidia-smi --query-gpu=gpu_name,memory.total,memory,.free.memory.used --format=csv
+nvidia-smi --query-gpu=gpu_name,memory.total,memory,free.memory.used --format=csv
+nvidia-smi --query-gpu=gpu_name,memory.total,memory.,free,.memory.used --format=csv
+nvidia-smi --query-gpu=gpu_name,memory.total,memory.free,memory.used --format=csv
+nvidia-smi --query-gpu=gpu_name,memory.total,memory.free --format=csv
+nvidia-smi --query-gpu=gpu_name,memory.total,memory.free
+nvidia-smi --query-gpu=index,gpu_name,memory.total,memory.free --format=csv
+nvidia-smi --query-gpu=index,gpu_name,memory.free,memory.total --format=xml
+nvidia-smi --query-gpu=index,gpu_name,memory.free,memory.total --format=csv
+nvidia-smi --query-gpu=index,gpu_name,memory.used,memory.total --format=xml
+nvidia-smi --query-gpu=index,gpu_name,memory.used,memory.total --format=csv
+source activate py3
+python
+fish
+conda update conda
+conda update
+conda update --prefix /home/kevin/anaconda3/envs/py36_pytorch_0_2_0_cuda_0/ anaconda
+source activate py36_pytorch_0_2_0_cuda_0
+conda install pytorch torchvision -c pytorch
+python
+python3
+conda list | grep torch
+conda list
+conda list | grep torch
+conda uninstall torchvision pytorch cuda90
+python
+conda install torchvision pytorch
+ls
+python
+conda list | grep torch
+python
+python2
+conda uninstall torchvision pytorch
+conda list | grep torch
+conda install -y pytorch torchvision -c pytorch
+conda list | grep torch
+python
+source ~/.bashrc
+export PATH=
+export LD_LIBRARY_PATH=
+export PYTHOHPATH=
+source ~/.bashrc
+python
+fish
+source activate py26_pytorch_0_2_0_cuda_0
+conda info --envs
+source activate py36_pytorch_0_2_0_cuda_0
+conda list
+vi /opt/ros/kinetic/setup.bash 
+fish
+source ~/.bashrc
+fish
+activate py36
+activate py3
+sudo activate py3
+fish
+fihs
+fish
+source activate py3
+python
+fish
+source activate py36_pytorch_0_2_0_cuda_0
+conda install pytorch=0.2.0 cuda90 -c pytorch
+python
+python3
+CUDA_VISIBLE_DEVICES=0 python3 test-ucf24.py --data_root=/home/user/ucf24/ --save_root=/home/user/ucf24/
+python3
+python
+python3
+conda install -c conda-forge opencv 
+python3
+python
+python3
+which python3
+CUDA_VISIBLE_DEVICES=0 python3 test-ucf24.py --data_root=/home/user/ucf24/ --save_root=/home/user/ucf24/
+source ~/.bashrc
+source activate py36_pytorch_0_2_0_cuda_0
+CUDA_VISIBLE_DEVICES=0 python3 test-ucf24.py --data_root=/home/user/ucf24/ --save_root=/home/user/ucf24/
+python3
+python
+python3
+python
+nvcc -V
+conda install pytorch=0.2.0 cuda90 -c pytorch
+python3
+python
+python3
+vi ~/.bashrc
+. ~/.bashrc
+source activate py36_pytorch_0_2_0_cuda_0
+python3
+echo $PYTHONPATH
+export PYTHONPATH=
+echo $PYTHONPATH
+export PYTHONPATH=
+source ~/.bashrc
+source activate py36_pytorch_0_2_0_cuda_0
+echo $PYTHONPATH
+python
+vi ~/.bashrc
+python
+python3
+conda install pytorch=0.2.0 cuda90 -c pytorch
+conda install -c conda-forge opencv 
+python3.5
+python3.6
+python3.7
+python3.6
+python3.5
+python
+unalias python
+python
+conda install pytorch=0.2.0 cuda90 -c pytorch
+python
+conda update conda
+conda install mkl=2018
+python
+deactivate
+sudo deactivate
+fish
+python
+python3
+fish
+source activate py27
+python
+fish
+source activate py37_pytorch_0_2_0
+python
+python3
+python3.7
+source ~/.bashrc
+source py37_pytorch_0_2_0
+source activate py37_pytorch_0_2_0
+ls
+conda list | grep torch
+conda list
+conda install pytorch torchvision
+python
+conda list
+echo $PATH
+export PATH=
+echo $PATH
+source ~/.bashrc
+echo $PATH
+ls /home/kevin/bin
+ls
+fish
+source ~/.bashrc
+ls
+echo "export PATH=/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/b‌​in" >> ~/.bashrc
+source ~/.bashrc
+echo "export PATH=/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/b‌​in" >> ~/.bashrc
+export PATH=/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/b‌​in
+ls
+source ~/.bashrc
+python
+source activate py37_pytorch_0_2_0
+source activate
+source activate py37_pytorch_0_2_0
+source ~/.bashrc
+source activate py37_pytorch_0_2_0
+ls ../bin/activate
+source ~/.bashrc
+source activate py37_pytorch_0_2_0
+conda list | grep torch
+conda list
+python
+conda install pytorch torchvision
+python
+conda install opencv
+python
+vi
+vi /opt/ros/kinetic/setup.bash
+vi /opt/ros/kinetic/setup.bash 
+vi /opt/ros/kinetic/setup.sh
+echo PYTHONPATH
+echo $PYTHONPATH
+export PYTHONPATH=
+echo $PYTHONPATH
+source ~/.bashrc
+echo $PYTHONPATH
+source activate py37_pytorch_0_2_0
+python
+echo $PATH
+conda list
+python
+cd ~/work/etc/realtime-action-detection/
+CUDA_VISIBLE_DEVICES=0 python3 test-ucf24.py --data_root=/home/user/ucf24/ --save_root=/home/user/ucf24/
+CUDA_VISIBLE_DEVICES=0 python test-ucf24.py --data_root=/home/user/ucf24/ --save_root=/home/user/ucf24/
+conda install scipy
+CUDA_VISIBLE_DEVICES=0 python test-ucf24.py --data_root=/home/user/ucf24/ --save_root=/home/user/ucf24/
+CUDA_VISIBLE_DEVICES=0 python test-ucf24.py --data_root=/home/user/ucf24/ --save_root=/home/kevin/work/etc/realtime-action-detection
+CUDA_VISIBLE_DEVICES=0 python test-ucf24.py --data_root=/home/user/ucf24/ --save_root=/home/user/ucf24/
+CUDA_VISIBLE_DEVICES=0 python test-ucf24.py --data_root=/home/user/ucf24/ --save_root=/home/kevin/work/etc/realtime-action-detection
+CUDA_VISIBLE_DEVICES=0 python test-ucf24.py --data_root=/home/user/ucf24/ --save_root=/home/kevin/work/etc/realtime-action-detection/
+CUDA_VISIBLE_DEVICES=0 python test-ucf24.py --data_root=/home/user/ucf24/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+wget https://drive.google.com/open?id=1IyqjUQofRyYrAQ-Uz7MPsSqVBlBe-Zk7
+ls -altrsh
+rm -rf open\?id\=1IyqjUQofRyYrAQ-Uz7MPsSqVBlBe-Zk7 
+CUDA_VISIBLE_DEVICES=0 python test-ucf24.py --data_root=/home/user/ucf24/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+CUDA_VISIBLE_DEVICES=0 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+fish
+fish
+fish
+source activate py37_pytorch_0_2_0
+python
+tmux ls
+tmux
+fish
+tmux ls
+fish
+tmux ls
+fish
+juk509
+fish
+tmux ls
+fish
+source activate py35_pytorch_0_3_0
+python
+conda install -c anaconda cudatoolkit==8.0
+python
+du -hs *
+du -hs ../realtime-action-detection_kevin/
+du -hs ../realtime-action-detection_kevin/*
+source activate py37_pytorch_0_2_0
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection_kevin/ --save_root=/home/kevin/work/etc/realtime-action-detection_ori/ --input_type=rgb --eval_iter=120000
+python
+conda create -n py35_pytorch_0_3_0 python=3.5 mkl=2018 pytorch=0.3.0 -c pytorch -c intel
+deactivate
+source deactivate
+source activate py35_pytorch_0_3_0
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection_kevin/ --save_root=/home/kevin/work/etc/realtime-action-detection_ori/ --input_type=rgb --eval_iter=120000
+conda install cv2
+python
+conda install -c menpo opencv3
+~~~~~~~~~~~~~~~~~~~~~
+python
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection_kevin/ --save_root=/home/kevin/work/etc/realtime-action-detection_ori/ --input_type=rgb --eval_iter=120000
+conda install scipy
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection_kevin/ --save_root=/home/kevin/work/etc/realtime-action-detection_ori/ --input_type=rgb --eval_iter=120000
+git config --get remote.origin.url
+source activate py37_pytorch_0_2_0
+CUDA_VISIBLE_DEVICES=0 python3 test-ucf24.py --data_root=/home/user/ucf24/ --save_root=/home/user/ucf24/
+--input_type=rgb --eval_iter=120000
+CUDA_VISIBLE_DEVICES=0 python3 test-ucf24.py --data_root=/home/user/ucf24/ --save_root=/home/user/ucf24/ --input_type=rgb --eval_iter=120000
+CUDA_VISIBLE_DEVICES=0 python3 test-ucf24.py --data_root=/home/kevin/work/realtime-action-detection/ucf24/ --save_root=/home/kevin/work/realtime-action-detection/ucf24/ --input_type=rgb --eval_iter=120000
+CUDA_VISIBLE_DEVICES=0 python3 test-ucf24.py --data_root=/home/kevin/work/realtime-action-detection/ucf24/ --save_root=/home/kevin/work/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+CUDA_VISIBLE_DEVICES=0 python3 test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ucf24/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+CUDA_VISIBLE_DEVICES=0 python3 test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+CUDA_VISIBLE_DEVICES=3 python3 test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+CUDA_VISIBLE_DEVICES=2 python3 test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+CUDA_VISIBLE_DEVICES=2 python3 test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000 --batch_size=1
+ls ucf24/cache/CONV-SSD-ucf24-rgb-bs-32-vgg16-lr-00100/
+mkdir ucf24/cache/CONV-SSD-ucf24-rgb-bs-1-vgg16-lr-00100/
+CUDA_VISIBLE_DEVICES=2 python3 test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000 --batch_size=1
+rm -rf ucf24/cache/CONV-SSD-ucf24-rgb-bs-1-vgg16-lr-00100/
+mv ucf24/cache/CONV-SSD-ucf24-rgb-bs-32-vgg16-lr-00100/ ucf24/cache/CONV-SSD-ucf24-rgb-bs-1-vgg16-lr-00100
+CUDA_VISIBLE_DEVICES=2 python3 test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000 --batch_size=1
+CUDA_VISIBLE_DEVICES=2 python3 test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+conda install matplotlib
+CUDA_VISIBLE_DEVICES=2 python3 test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+firefox
+CUDA_VISIBLE_DEVICES=2 python3 test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+firefox
+CUDA_VISIBLE_DEVICES=2 python3 test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+which cv2
+where cv2
+python
+conda install -c conda-forge opencv
+python
+conda install -c defaults libprotobuf protobuf
+python
+CUDA_VISIBLE_DEVICES=2 python3 test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+python
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+python
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+conda install -c menpo opencv3
+python
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+CUDA_VISIBLE_DEVICES=1 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+CUDA_VISIBLE_DEVICES=1 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000.85
+CUDA_VISIBLE_DEVICES=1 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+python
+CUDA_VISIBLE_DEVICES=1 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+find /home/kevin/anaconda3/ -name '*pytorch*'
+find /home/kevin/anaconda3/envs/py37_pytorch_0_2_0/ -name '*pytorch*'
+find /home/kevin/anaconda3/envs/py37_pytorch_0_2_0/ -name '*torch*'
+find /home/kevin/anaconda3/envs/py37_pytorch_0_2_0/ -name 'sampler.py'
+vi /home/kevin/anaconda3/envs/py37_pytorch_0_2_0/lib/python3.6/site-packages/torch/utils/data/sampler.py
+CUDA_VISIBLE_DEVICES=1 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+top
+ps -u -p 1234
+ps -u -p 4047
+ps -u -p 4631 4647
+kill 4631 4647
+kill -9 4631 4647
+ps -u -p 4631 23433
+ps -u -p 23433
+kill -9 23433
+killall python
+pkill python
+kill -9 23407
+kill -9 24307
+kill -9 25220
+kill -9 25287
+kill -9 25303
+kill -9 25380
+kill -9 9115
+kill -9 30619
+kill -9 32161
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+nvidia-smi
+kill -9 8241
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+kill -9 8305
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+kill -9 8473
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+kill -9 8762
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+kill -9 10271
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+kill -9 10345
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+kill -9 27197
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=brox --eval_iter=120000
+find . -name '*.pth'
+find ../ -name '*.pth'
+find ../../ -name '*.pth'
+find ../../../ -name '*.pth'
+find ../../../ -name '*ssd*.pth'
+find ../../../../ -name '*ssd*.pth'
+firefox
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=brox --eval_iter=120000
+ls ucf24/cache/
+mkdir ucf24/cache/CONV-SSD-ucf24-brox-bs-1-vgg16-lr-00100/
+mv ucf24/cache/brox-ssd300_ucf24_120000.pth ucf24/cache/CONV-SSD-ucf24-brox-bs-1-vgg16-lr-00100/
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=brox --eval_iter=120000
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=fastOF --eval_iter=120000
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+ls ucf24/cache/CONV-SSD-ucf24-rgb-bs-1-vgg16-lr-00100/
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+ls ucf24/cache/CONV-SSD-ucf24-rgb-bs-1-vgg16-lr-00100/detection-120000.pkl 
+ls ucf24/cache/CONV-SSD-ucf24-rgb-bs-1-vgg16-lr-00100/detection-120000.pkl -altrsh
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+CUDA_VISIBLE_DEVICES=2 python train-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --stepvalues=30000,60000,90000 --max_iter=120000
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+ls -altrsh
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+ls -altrsh
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+ls
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+ls
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+ls
+ls -altrsh
+ffmpeg
+ls -
+ls
+ls -altrsh
+du -hs
+du -hs *
+cd ..
+cd realtime-action-detection_kevin/
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection_kevin/ --save_root=/home/kevin/work/etc/realtime-action-detection_kevin/ --input_type=rgb --eval_iter=120000
+ls .gitignore
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection_kevin/ --save_root=/home/kevin/work/etc/realtime-action-detection_kevin/ --input_type=rgb --eval_iter=120000
+python
+source deactivate
+source activate py35_pytorch_0_3_0
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection_kevin/ --save_root=/home/kevin/work/etc/realtime-action-detection_kevin/ --input_type=rgb --eval_iter=120000
+ls -altrsh
+mv output.avi bbox_video/
+cd bbox_video/
+ls
+rm -rf out*.gif
+ls
+mv bbox.gif bbox_pytorch_0_4_.gif 
+ffmpeg -i output.avi bbox_pytorch_0_3.gif
+ls -altrsh
+mv bbox_pytorch_0_4_.gif bbox_pytorch_0_4.gif
+ls -altrsh
+ls
+ls ../
+ls ../ucf24/
+cd ..
+ls
+mv * ../realtime-action-detection/
+ls
+cd ..
+rm -rf realtime-action-detection_kevin/
+cd realtime-action-detection
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection_kevin/ --save_root=/home/kevin/work/etc/realtime-action-detection_kevin/ --input_type=rgb --eval_iter=120000
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+ls
+rm -rf output.avi 
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000 --topk=2
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000 --topk=1
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000 --topk=100
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000 --topk=1
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000 --topk=10
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000 --topk=10 --conf_thres=0.02
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000 --topk=10 --conf_thres=0.02 --nms_thresh=0.4
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000 --topk=10 --conf_thres=0.04 --nms_thresh=0.4
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000 --topk=10 --conf_thres=0.04 --nms_thresh=0.5
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000 --topk=10 --conf_thres=0.06 --nms_thresh=0.5
+fish
+fish
+exit
+fish
+exit
+fish
+exit
+fish
+fish
+tmux ls
+fish
+fish
+sudo find / -name "MobileNetSSD_deploy.prototxt" | while read line; do ls -altrsh "$line" ; done
+sudo find /home/taehwan -name "MobileNetSSD_deploy.prototxt" | while read line; do ls -altrsh "$line" ; done
+sudo find /home/taehwan/Library/caffe_ssd/examples/MobileNet-SSD/example_person -name "MobileNetSSD_deploy.prototxt" | while read line; do vi "$line" ; done
+fffffffsdlfjsd
+fisdfh
+fish
+ps -u -p 14117
+fish
+sudo fine . -name "*.py" | while read line; do echo "Processing file $line"; done
+sudo find . -name "*.py" | while read line; do echo "Processing file $line"; done
+sudo find . -name "*.py" | while read line; do echo du -sh $line"; done
+sudo find . -name "*.py" | while read line; do echo "file size of '$line'"du -sh 
+sudo find . -name "*.py" | while read line; do echo "file size of '$line'"; du -sh "$line"; done
+sudo find /home/taehwan/ -name "*.caffemodel" | while read line; do du -sh "$line"; done
+sudo find /home/taehwan/ -name "*.dlc" | while read line; do du -sh "$line"; done
+sudo find /home/taehwan/ -name "*person.prototxt"
+sudo find /home/taehwan/ -name "*.person.prototxt" | while read line; do du -sh "$line"; doneggsdf
+sudo find /home/taehwan/ -name "*.person.prototxt"
+sudo find /home/taehwan/ -name "*.person*"
+sudo find /home/taehwan/ -name "*person.prototxt"
+sudo find /home/taehwan/ -name "*person.prototxt" | while read line; do du -sh "$line"; done
+sudo find /home/taehwan/ -name "*person.prototxt" | while read line; do vi "$line"; done
+sudo find /home/taehwan/ -name "*.dlc" | while read line; do du -sh "$line"; done
+sudo find /home/taehwan/ -name "*person.prototxt" | while read line; do vi "$line"; done
+sudo find /home/taehwan/ -name "*.dlc" | while read line; do du -sh "$line"; donedfsdfsdfsdfvi;  ; 
+fish
+ifconfig -a
+hostname -I
+fish
+sudo docker rmi $(docker ps --all -a)
+sudo docker rmi 7bb1329c8c24 $(docker ps --all -a)
+sudo docker images
+fish
+fish
+fish
+fish
+bash
+source activate py35_pytorch_0_3_0
+cd work/etc/realtime-action-detection/
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000 --id_cam=0
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000 --id_cam=0
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000 --id_cam=/home/eyedea/opencv_extra/gpu_demos_pack/demos/pedestrian_detection/data/pedestrian_detection.avi
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000 --id_cam=0
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000 --id_cam=/home/eyedea/opencv_extra/gpu_demos_pack/demos/pedestrian_detection/data/pedestrian_detection.avi
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000 --id_cam=/usr/local/share/OpenCV/samples/data/data/Megamind.avi
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000 --id_cam='/usr/local/share/OpenCV/samples/data/data/Megamind.avi'
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000 --id_cam=/home/eyedea/caltech-pedestrian-dataset-converter/data/plots/set09_V009.avi
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000 --id_cam='/home/eyedea/caltech-pedestrian-dataset-converter/data/plots/set09_V009.avi'
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000 --id_cam=0
+python 
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000 --id_cam=0
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000 --id_cam=0
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000 --id_cam=0
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000 --id_cam=0
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000 --id_cam=0 --conf_thresh=0.15
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000 --id_cam=0 --conf_thresh=0.2
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000 --id_cam=0 --conf_thresh=0.2 --n_record=1
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000 --n_record=1
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000
+CUDA_VISIBLE_DEVICES=2 python test-ucf24.py --data_root=/home/kevin/work/etc/realtime-action-detection/ --save_root=/home/kevin/work/etc/realtime-action-detection/ --input_type=rgb --eval_iter=120000 --id_cam=0 --conf_thresh=0.2 --n_record=1
+source ~/anaconda3/etc/fish/conf.d/conda.fish 
+fish
+fish
+fihs
+fish
+tmux ls
+fish
+cheese
+modinfo -F filename `lshw -c video | awk '/configuration: driver/{print $2}' | cut -d= -f2`
+sudo modinfo -F filename `lshw -c video | awk '/configuration: driver/{print $2}' | cut -d= -f2`
+sudo modinfo -F filename `sudo lshw -c video | awk '/configuration: driver/{print $2}' | cut -d= -f2`
+modinfo $(modprobe --resolve-alias nvidia)
+fish
+echo "source `conda info --root`/etc/fish/conf.d/conda.fish" >> ~/.config/fish/config.fish
+fish
+vlc
+v4l2
+fish
+tmux ls
+fish
+tmux ls
+fish
+fihs
+fish
+source ~/.bashrc
+fish
+tmux ls
+fish
+g++ Main.cpp EllipseDetectorYaed.cpp common.cpp -o ellipse_det -std=c++11 `pkg-config --cflags --libs opencv`
+vi common.h
+g++ Main.cpp EllipseDetectorYaed.cpp common.cpp -o ellipse_det -std=c++11 `pkg-config --cflags --libs opencv`
+vi common.h
+g++ Main.cpp EllipseDetectorYaed.cpp common.cpp -o ellipse_det -std=c++11 `pkg-config --cflags --libs opencv`
+ls
+ls -altrsh
+g++ Main.cpp EllipseDetectorYaed.cpp common.cpp -o ellipse_det -std=c++11 `pkg-config --cflags --libs opencv`
+ls
+./ellipse_det 
+tmux display-message -p '#S'
+tmux display-message -p
+tmux display-message
+tmux display-message -p
+tmux ls
+source set_env.sh ubuntu64
+fish
+source set_env.sh ubuntu64
+make
+fish
+source set_env.sh ubuntu32
+fish
+source set_env.sh ubuntu32
+fish
+fihs
+fish
+exit
+fish
+bash
+source /opt/ros/kinetic/setup.bash 
+echo $ROS_PACKAGE_PATH
+catkin_make
+fish
+fihs
+fish
+cd code/
+g++ Main.cpp CNEllipseDetector.cpp common.cpp tools.cpp -o cnce -std=c++11 `pkg-config --flags --libs opencv'
+g++ Main.cpp CNEllipseDetector.cpp common.cpp tools.cpp -o cnce -std=c++11 `pkg-config --flags --libs opencv`
+g++ Main.cpp CNEllipseDetector.cpp common.cpp tools.cpp -D LINUX -o cnce -std=c++11 `pkg-config --flags --libs opencv`
+g++ Main.cpp CNEllipseDetector.cpp common.cpp tools.cpp -D LINUX -o cnce -std=c++11 `pkg-config --cflags --libs opencv`
+ls
+ls -altrsh
+./ERVS 
+fish
+source ~/.bashrc
+fish
+source set_env.sh ubuntu32
+fish
+lsof /dev/video0
+fish
+g++ Main.cpp CNEllipseDetector.cpp common.cpp tools.cpp -o cnce -std=c++11 `pkg-config --cflags --libs opencv'
+g++ Main.cpp CNEllipseDetector.cpp common.cpp tools.cpp -o cnce -std=c++11 `pkg-config --cflags --libs opencv'
+g++ Main.cpp CNEllipseDetector.cpp common.cpp tools.cpp -o cnce -std=c++11 `pkg-config --cflags --libs opencv`
+echo $LINUX
+g++ Main.cpp CNEllipseDetector.cpp common.cpp tools.cpp -o cnce -std=c++11 `pkg-config --cflags --libs opencv`
+g++ Main.cpp CNEllipseDetector.cpp common.cpp tools.cpp -o cnce -std=c++11 -D LINUX `pkg-config --cflags --libs opencv`
+ls -altrsh
+./cnce
+./cnce -M 1
+g++ Main.cpp CNEllipseDetector.cpp common.cpp tools.cpp -o cnce -std=c++11 -D LINUX `pkg-config --cflags --libs opencv`
+./cnce
+g++ Main.cpp CNEllipseDetector.cpp common.cpp tools.cpp -o cnce -std=c++11 -D LINUX `pkg-config --cflags --libs opencv`
+./cnce ~/work/eyedea/ERVS_3c9619dd/gray1b_1.bmp 
+./cnce ~/work/eyedea/ERVS_3c9619dd/gray1b_2.bmp 
+grep -r "discard"
+grep -r "DISCARD"
+g++ Main.cpp CNEllipseDetector.cpp common.cpp tools.cpp -o cnce -std=c++11 -D LINUX `pkg-config --cflags --libs opencv`
+ls -altrsh
+./cnce ~/work/eyedea/ERVS_3c9619dd/gray1b_2.bmp 
+g++ Main.cpp CNEllipseDetector.cpp common.cpp tools.cpp -o cnce -std=c++11 -D LINUX `pkg-config --cflags --libs opencv`
+./cnce ~/work/eyedea/ERVS_3c9619dd/gray1b_2.bmp 
+./cnce ~/work/eyedea/ERVS_3c9619dd/gray1b_1.bmp 
+fish
+fish
+export
+export DISPLAY:=localhost:10
+export DISPLAY:=localhost:10.0
+export DISPLAY := localhost:10.0
+fish
+cd devel/
+ls
+source setup.bash 
+cd ..
+fish
+conda activate py35_keras_1_1_0_theano_1_0_2
+source activate py35_keras_1_1_0_theano_1_0_2
+set DEVICE=cuda
+pyhon
+python
+set DEVICE=cuda0
+python
+env DEVICE=cuda python -c "import pygpu; pygpu.test()"
+conda install -c anaconda mpi4py
+env DEVICE=cuda python -c "import pygpu; pygpu.test()"
+cd ~/library/
+git clone https://github.com/NVIDIA/nccl
+cd nccl
+ls
+ls -altrsh
+ls
+vi README.md 
+cd ..
+sudo rm -rf nccl
+git clone https://github.com/NVIDIA/nccl
+cd nccl/
+make -j src.build
+cd -
+cd ~/work/etc/activity_detection/AnomalyDetectionCVPR2018/
+env DEVICE=cuda python -c "import pygpu; pygpu.test()"
+fish
+g++ Main.cpp EllipseDetectorYaed.cpp common.cpp -o ellipse_det -std=c++11 `pkg-config --cflags --libs opencv`
+ls -altrsh
+g++ Main.cpp EllipseDetectorYaed.cpp common.cpp -o ellipse_det -std=c++11 `pkg-config --cflags --libs opencv`
+fish
+fish
+fish tmux ls
+fish
+vi utils.h 
+vi landmark_det.sh 
+vi camcal320x280.yml 
+vi landmark_det.sh
+fish
+fish
+fish
+tmux ls
+fish
+fish
+vi landmark_det.sh
+fish
+tmux source-file ~/.tmux.conf
+fish
+fish
+fihs
+fish
+fihs
+fish
+fish 
+fis\h
+w
+sudo reboot
+fish
+fish
+fish
+fish
+fihs
+fish

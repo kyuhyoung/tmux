@@ -1,0 +1,33 @@
+pane	emotion	0	:[tmux]	1	:*	0	:/home/kevin/work/etc/video_emotion/EmotiW19	0	vi	:fish
+pane	emotion	0	:[tmux]	1	:*	1	:/home/kevin/work/etc/video_emotion/EmotiW19	1	sh	:fish
+pane	emotion	0	:[tmux]	1	:*	2	:/home/kevin/data/face/AFEW	0	fish	:fish
+pane	fillpoly	0	:fish	1	:*	0	:/home/kevin/work/eyedea/symmetry/rotational_symmetry_fillpoly	0	vi	:fish
+pane	fillpoly	0	:fish	1	:*	1	:/home/kevin/work/eyedea/symmetry/rotational_symmetry_fillpoly	0	geeqie	:fish
+pane	fillpoly	0	:fish	1	:*	2	:/home/kevin/Downloads	1	fish	:fish
+pane	handeye	0	:fish	1	:*	0	:/home/kevin/work/etc/handeye/shecar	0	vi	:fish
+pane	handeye	0	:fish	1	:*	1	:/home/kevin/work/etc/handeye/shecar	0	./bin/SHECAR	:fish
+pane	handeye	0	:fish	1	:*	2	:/home/kevin/work/etc/handeye/shecar	1	fish	:fish
+pane	handeye	0	:fish	1	:*	3	:/home/kevin/work/etc/handeye/TheiaSfm	0	fish	:fish
+pane	satelite	0	:fish	1	:*	0	:/home/kevin/work/etc/satelite/simplified_rbox_cnn	0	vi	:fish
+pane	satelite	0	:fish	1	:*	1	:/home/kevin/work/etc/detection/yolo	0	fish	:fish
+pane	satelite	0	:fish	1	:*	2	:/home/kevin/work/etc/satelite/simplified_rbox_cnn	1	fish	:fish
+pane	segmentation	0	:[tmux]	1	:*	0	:/home/kevin/work/etc/segmentation/meanshift_segmentation	0	vi	:fish
+pane	segmentation	0	:[tmux]	1	:*	1	:/home/kevin/work/etc/segmentation/meanshift_segmentation	1	fish	:fish
+pane	segmentation	0	:[tmux]	1	:*	2	:/home/kevin/work/etc/segmentation/meanshift_segmentation	0	fish	:fish
+pane	stag	0	:fish	1	:*	0	:/home/kevin/work/etc/stag	0	vi	:fish
+pane	stag	0	:fish	1	:*	1	:/home/kevin/work/etc/stag	1	fish	:fish
+pane	subdegree	0	:fish	1	:*	0	:/home/kevin/work/eyedea/ERVS_subdegree	0	vi	:fish
+pane	subdegree	0	:fish	1	:*	1	:/home/kevin/work/eyedea/ERVS_subdegree	0	vi	:fish
+pane	subdegree	0	:fish	1	:*	2	:/home/kevin/work/eyedea/CameraUtil	1	fish	:fish
+pane	symmetry	0	:fish	1	:*	0	:/home/kevin/work/eyedea/symmetry/rotational_symmetry	0	vi	:fish
+pane	symmetry	0	:fish	1	:*	1	:/home/kevin/work/eyedea/symmetry/rotational_symmetry	0	fish	:fish
+pane	symmetry	0	:fish	1	:*	2	:/home/kevin/work/eyedea/symmetry/rotational_symmetry	1	fish	:fish
+window	emotion	0	1	:*	2fc7,117x66,0,0[117x48,0,0,7,117x7,0,49,8,117x9,0,57,9]
+window	fillpoly	0	1	:*	4eb8,117x66,0,0[117x33,0,0,21,117x16,0,34,22,117x15,0,51,23]
+window	handeye	0	1	:*	d549,117x66,0,0[117x43,0,0,17,117x8,0,44,18,117x8,0,53,19,117x4,0,62,20]
+window	satelite	0	1	:*	8a41,117x66,0,0[117x18,0,0,14,117x30,0,19,15,117x16,0,50,16]
+window	segmentation	0	1	:*	2644,112x62,0,0[112x30,0,0,11,112x15,0,31,12,112x15,0,47,13]
+window	stag	0	1	:*	0d30,112x62,0,0[112x53,0,0,0,112x8,0,54,1]
+window	subdegree	0	1	:*	0bf7,117x66,0,0[117x32,0,0,4,117x16,0,33,5,117x16,0,50,6]
+window	symmetry	0	1	:*	401d,112x62,0,0[112x30,0,0,2,112x15,0,31,3,112x15,0,47,10]
+state	segmentation	
