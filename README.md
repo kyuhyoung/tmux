@@ -17,6 +17,5 @@ $ git clone https://github.com/NHDaly/tmux-better-mouse-mode.git
 $ git clone https://github.com/tmux-plugins/tmux-continuum.git
 $ git clone https://github.com/tmux-plugins/tmux-resurrect.git
 $ git clone https://github.com/tmux-plugins/tmux-sensible.git
-$ git clone https://github.com/tmux-plugins/tmux-sensible.git
 ```
 
