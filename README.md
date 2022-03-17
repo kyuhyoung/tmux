@@ -4,6 +4,7 @@ tmux related files
 ### install
 
 ```
+$ apt-get install tmux
 $ git clone https://github.com/kyuhyoung/tmux.git
 $ cp -r tmux/.tmux* ~/
 $ tmux source-file ~/.tmux.conf
